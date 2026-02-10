@@ -16,7 +16,8 @@ Setup
 
 1. Clone the repository
 
-git clone <your-repo-link>
+git clone https://github.com/mafzalah/quote-marketplace.git
+
 cd quote-marketplace
 
 2. Install dependencies
