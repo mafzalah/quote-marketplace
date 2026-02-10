@@ -26,7 +26,7 @@ composer install
 
 3. Copy environment file
 
-cp .env.example .env
+copy .env.example to .env
 
 4. Generate application key
 
