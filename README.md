@@ -99,3 +99,35 @@ Notes
 - Role and provider badge are stored in the users table.
 - Jobs are stored in customer_jobs.
 - Quotes are stored in quotes.
+
+
+## Screenshots
+
+**Customer Dashboard**
+![Customer Dashboard](screenshots/customer-dashboard.png)
+
+**Customer Create Job**
+![Customer Dashboard](screenshots/create-job.png)
+
+**Customer My Jobs**
+![Customer Dashboard](screenshots/my-jobs.png)
+
+**Customer Quote Accept**
+![Customer Dashboard](screenshots/quote-accept.png)
+
+**Provicer Dashboard**
+![Customer Dashboard](screenshots/provider-dashboard.png)
+
+**Provicer My Quotes**
+![Customer Dashboard](screenshots/my-quotes.png)
+
+**Provicer Open Jobs**
+![Customer Dashboard](screenshots/open-jobs.png)
+
+**Login**
+![Customer Dashboard](screenshots/login.png)
+
+**Register**
+![Customer Dashboard](screenshots/register.png)
+
+
